@@ -173,3 +173,25 @@ After submitting your results, make sure to go through all next screen steps, if
 If you got to this point, thank you so much for reading and hopefully this content can be helpful or informative in any way 🙇‍♂️.
 
 Have a great day.
+
+<!-- Embed dynamic content (image) of contributors:
+- 'https://dev.to/lacolaco/introducing-contributors-img-keep-contributors-in-readme-md-gci'.
+- 'https://contrib.rocks/'.
+- 'https://contrib.rocks/preview?repo=a1t0ghb%2Fcourses-oracle_one-git_y_github-d250728'
+-->
+# Contributors.
+
+<a href="https://github.com/a1t0ghb/tests-python-codility_platform_assessment_preparation_demo-_own-d250803/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=a1t0ghb/tests-python-codility_platform_assessment_preparation_demo-_own-d250803" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+<!-- Authors table structure
+- From repo: 'https://github.com/camilafernanda/GlicoCare/blob/main/README.md?plain=1'.
+-->
+# Authors.
+
+| [<img src="https://avatars.githubusercontent.com/u/32377614?v=4" width=70><br><sub>a1t0ghb</sub>](https://github.com/a1t0ghb) |
+| :---: |
+
