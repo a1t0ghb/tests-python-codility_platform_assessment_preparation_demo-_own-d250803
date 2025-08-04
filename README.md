@@ -44,3 +44,4 @@ This repo includes the demo presentation, and a possible solution on my end, wit
 
 # Notes on Exercise and Code Execution.
 
+- A.
